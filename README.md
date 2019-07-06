@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Freedom Engine's Docs!
 
 You can use the [editor on GitHub](https://github.com/benjaminforster/freedom-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
